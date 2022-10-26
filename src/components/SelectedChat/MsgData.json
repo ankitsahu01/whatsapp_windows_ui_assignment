@@ -1,0 +1,38 @@
+{
+    "id": 123,
+    "name": "Alice Whiteman",
+    "isOnline": true,
+    "picUrl": "https://picsum.photos/24",
+    "messages":[
+        {
+            "content": "OK! 👍👍",
+            "time": "05:01 PM",
+            "senderId": 123
+        },
+        {
+            "content": "Here are all the backgrounds. Let me know your favourite!",
+            "time": "06:04 PM",
+            "senderId": "self",
+            "status": "seen"
+        },
+        {
+            "imgUrl": "https://picsum.photos/300/130",
+            "time": "06:04 PM",
+            "senderId": "self",
+            "status": "seen"
+        },
+        {
+            "content": "This is beautiful!",
+            "imgUrl": "https://picsum.photos/320/200",
+            "time": "06:04 PM",
+            "senderId": 123
+        },
+        {
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "time": "06:04 PM",
+            "senderId": "self",
+            "status": "seen"
+        }
+
+    ]
+}

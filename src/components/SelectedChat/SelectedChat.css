@@ -1,0 +1,8 @@
+.chatBox::-webkit-scrollbar{
+    width: 4px;
+}
+
+.chatBox::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #555;
+}

@@ -1,0 +1,12 @@
+.allChats::-webkit-scrollbar{
+    width: 2px;
+}
+
+.allChats::-webkit-scrollbar-thumb {
+    background: #777;
+    border-radius: 10px;
+}
+
+/* .allChats:hover::-webkit-scrollbar-thumb {
+    background: #777;
+} */

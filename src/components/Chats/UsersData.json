@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Maya Kasuma",
+    "latestMsg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "picUrl": "https://picsum.photos/21",
+    "notification": 1,
+    "time": "12:10 PM"
+  },
+  {
+    "name": "Steve Ballmer",
+    "latestMsg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "notification": 3,
+    "picUrl": "https://picsum.photos/22",
+    "time": "12:10 PM"
+  },
+  {
+    "name": "Stasa Benko",
+    "latestMsg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "picUrl": "https://picsum.photos/23",
+    "time": "12:10 PM"
+  },
+  {
+    "name": "Alice Whiteman",
+    "latestMsg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "selected": true,
+    "status": "sent",
+    "picUrl": "https://picsum.photos/24",
+    "time": "12:10 PM"
+  },
+  {
+    "name": "Clippy",
+    "latestMsg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "picUrl": "https://picsum.photos/25",
+    "time": "12:10 PM",
+    "isTyping": true
+  },
+  {
+    "name": "Henry Strachan",
+    "latestMsg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "picUrl": "https://picsum.photos/26",
+    "status": "sent",
+    "time": "05/11"
+  },
+  {
+    "name": "Jihoon Seo",
+    "latestMsg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "picUrl": "https://picsum.photos/27",
+    "time": "05/11"
+  },
+  {
+    "name": "Big Bakers Club",
+    "latestMsg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "picUrl": "https://picsum.photos/28",
+    "time": "05/11"
+  },
+  {
+    "name": "Joao Pereira",
+    "latestMsg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "picUrl": "https://picsum.photos/29",
+    "time": "05/11"
+  }
+]
